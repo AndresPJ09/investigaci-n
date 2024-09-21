@@ -1,0 +1,218 @@
+**ARTICULO 1:
+El artículo de Giovanni Corazza aborda la "Programación Abierta", una filosofía de diseño de software que enfatiza la flexibilidad 
+y la modularidad en la construcción de sistemas. Se enfoca en los lenguajes de programación que apoyan esta filosofía, destacando 
+cómo permiten la creación de aplicaciones más adaptables y extensibles. Aunque no se menciona directamente MVC, los conceptos 
+discutidos son relevantes para este patrón de diseño, ya que MVC también promueve la separación de responsabilidades y la 
+modularidad en el desarrollo de software.
+
+**ARTICULO 2: 
+
+**ARTICULO 3:
+
+**ARTICULO 4:
+El proyecto consiste en el desarrollo de un sistema web para la gestión de fichas médicas de docentes y 
+estudiantes de la Unidad Educativa González Suárez, utilizando la arquitectura Modelo Vista Controlador (MVC). 
+El objetivo es automatizar y mejorar los procesos de recolección, almacenamiento y gestión de la información médica 
+de la institución. La arquitectura MVC se implementa utilizando el framework Laravel, el cual proporciona una estructura basada en MVC 
+para el desarrollo de aplicaciones web. Laravel facilita la creación de un sistema web robusto y eficiente para la gestión 
+de fichas médicas, al tiempo que permite una fácil integración con bases de datos y otras tecnologías web.
+
+**ARTICULO 5:
+Aborda el desarrollo de un sistema web para la gestión de fichas médicas de docentes y estudiantes de la Unidad Educativa
+González Suárez, utilizando la arquitectura Modelo Vista Controlador (MVC). El objetivo es automatizar y mejorar los procesos
+de recolección, almacenamiento y gestión de la información médica de la institución. El objetivo del sistema web es automatizar y 
+mejorar los procesos de recolección, almacenamiento y gestión de la información médica de la institución educativa, aprovechando 
+las ventajas que ofrece la arquitectura MVC en términos de organización, mantenimiento y escalabilidad del código.
+
+**ARTICULO 6:
+Centra a comparar la productividad entre dos patrones de diseño de software, MVC y MVP, utilizados en el desarrollo 
+de un sistema de nómina y rol de pagos para la Distribuidora Soria C.A. A través de este análisis, se evalúan métricas clave como el 
+uso de recursos del sistema y el tiempo de desarrollo, concluyendo cuál de los dos patrones ofrece mejores resultados en términos de 
+eficiencia. En cuanto a MVC, el estudio resalta su capacidad para gestionar grandes cantidades de datos y su flexibilidad en la 
+separación de la lógica de negocio y la interfaz de usuario, lo que facilita el mantenimiento y la escalabilidad del sistema.
+
+**ARTICULO 7:
+El trabajo se enfoca en el desarrollo de un sistema web para la gestión de inventarios y producción en la Pasteurizadora J.S., 
+utilizando la arquitectura Modelo Vista Controlador (MVC). Esta implementación buscó resolver problemas de ineficiencia y errores 
+que surgían en el manejo manual de los datos, logrando una automatización efectiva que facilita el registro, seguimiento y control 
+de materias primas, productos terminados y ventas. La tesis destaca cómo la estructura modular de MVC, que separa la lógica de 
+negocio de la interfaz de usuario, es fundamental para la escalabilidad y el mantenimiento del sistema, especialmente en un entorno 
+de producción industrial.
+
+**ARTICULO 8:
+El artículo representa el desarrollo de un sistema de gestión académica (SIGAF) para la facultad de 
+contaduría y administración, utilizando la arquitecton (MVC), implementada con Framework laravel. 
+El sistema busca mejorar la gestion de horarios y administración académica mediante PHP Javascript, 
+y CSS3. Se detalla que estructuraron los módulod del sistema, separando la logica de negocio, la 
+presentagon, y la persistencia datos. Ademas, uso de metodologias ágiles como SERUM para eL desariollo 
+de proyecto. 
+
+**ARTICULO 9:
+El artículo explora el patrón arquitectónico (MVC) puede ser implementado de manera efectiva en el desarrollo 
+de aplicaciones interactivas. Se centra en la importancia de entender y aplicar correctamente los principios 
+y patrones de diseño que Subyacen en Mvc para tlograr sistemas que sean extensibles, mantenibles y escalables. El autor también analiza cómo estas patrones. Como a strategy, factory method, y observer ,se combina en el contexto MVC para obordAr problemas comunes en la implementación de interfaces de usuario y la logica de negocio.
+
+**ARTICULO 10:
+El artículo representa el desarrollo de un sistema de gestión académica (SIGAF) para la facultad de contadura 
+y administración, utilizando la arquitecton (MVC), implementada con Framework laravel. El sistema busca mejorar 
+la gestion de horarios y administración académica mediante PHP Javascript, y CSS3. Se detalla que estructuraron 
+los módulod del sistema, separando la logica de negocio, la presentagon, y la persistencia datos. Ademas, uso de 
+metodologias ágiles como SERUM para eL desariollo de proyecto.
+
+**ARTICULO 11:
+
+
+**ARTICULO 12:
+
+
+**ARTICULO 13:
+
+
+**ARTICULO 14:
+
+
+**ARTICULO 15:
+El artículo revisa y compara varios frameworks PHP basados en el patrón de diseño Modelo-Vista-Controlador (MVC), incluyendo Laravel, 
+Symfony, CodeIgniter, Zend, CakePHP, y Yii. Estos frameworks son herramientas poderosas para el desarrollo de aplicaciones web dinámicas, 
+seguras y escalables, permitiendo a los desarrolladores evitar empezar desde cero al ofrecer bibliotecas integradas y herramientas 
+que optimizan el tiempo de desarrollo. Se destacan aspectos como la facilidad de uso, la curva de aprendizaje, la seguridad y la 
+compatibilidad con bases de datos. Sobre MVC, el artículo describe cómo este patrón arquitectónico, compuesto por tres componentes 
+fundamentales (Modelo, Vista, Controlador), es esencial para mantener una clara separación de preocupaciones, facilitando el 
+desarrollo y mantenimiento de aplicaciones web complejas y modulares.
+
+**ARTICULO 16:
+El trabajo presenta el desarrollo de un prototipo de software denominado "SisRePat" para mejorar el proceso de selección de 
+personal en la empresa Persom S.A., utilizando el patrón de diseño Modelo-Vista-Controlador (MVC). El proyecto aborda problemas 
+relacionados con la falta de sistematización en los procesos de reclutamiento y selección, lo que generaba ineficiencias y posibles 
+pérdidas de clientes. Mediante la implementación del patrón MVC, se logró desarrollar una aplicación web que permite automatizar 
+el registro de hojas de vida, la gestión de requisiciones de personal y la búsqueda de candidatos. La tesis describe detalladamente 
+las fases de análisis, diseño, desarrollo, pruebas e implementación del prototipo, destacando cómo el uso de MVC facilitó la 
+separación de la lógica de negocio, la interfaz de usuario y el control de las interacciones, mejorando la modularidad y el mantenimiento del sistema.
+
+**ARTICULO 17:
+
+**ARTICULO 18:
+
+**ARTICULO 19:
+
+**ARTICULO 20:
+
+**ARTICULO 21:
+
+**ARTICULO 22:
+
+**ARTICULO 23:
+
+**ARTICULO 24:
+
+**ARTICULO 25:
+Este artículo analiza los desafíos actuales que enfrenta la Asociación para la Investigación de Organizaciones Sin Fines de 
+Lucro y Acción Voluntaria (ARNOVA). Se destaca la importancia de reorientar los objetivos estratégicos para alinearse con 
+los cambios en el sector sin fines de lucro y con los retos sociales emergentes. Además, se resalta la necesidad de 
+diversificar la base de miembros y fortalecer la estabilidad financiera mediante la gestión adecuada de los recursos. 
+Aunque no se aborda específicamente el tema del Modelo Vista Controlador (MVC), el artículo puede ofrecer un contexto 
+valioso sobre la estructura y gestión de organizaciones que podría relacionarse tangencialmente con conceptos de MVC 
+en la administración de recursos organizacionales.
+
+**ARTICULO 26: 
+El artículo presenta una investigación enfocada en el desarrollo de una herramienta que facilita la generación automática 
+de código fuente para aplicaciones utilizando la arquitectura (MVC). Esta herramienta se basa en 
+el desarrollo dirigido por modelos textuales (MDD), permitiendo la abstracción del problema y la construcción de modelos 
+que representan soluciones generales. Se describe cómo la herramienta optimiza la productividad del equipo de desarrollo, 
+asegurando la calidad, mantenibilidad y reutilización de elementos.
+
+**ARTICULO 27: 
+El proyecto de investigación se centra en el desarrollo de un Sistema de Procesamiento Transaccional (TPS) utilizando 
+la arquitectura Modelo Vista Controlador (MVC) para el registro de pedidos en un bar restaurante en Santo Domingo, Ecuador. 
+El objetivo principal es mejorar la eficiencia y la precisión en la gestión de pedidos, mediante la automatización de los 
+procesos y la reducción del margen de error. El sistema, desarrollado con tecnologías web, permite gestionar los pedidos 
+de manera rápida y ordenada, ofreciendo una mejor experiencia tanto para los clientes como para el personal del restaurante.
+
+**ARTICULO 28:
+La carencia de Accesibilidad en las interfaces de usuarios de los sitios Web es un dilema que afecta a un gran número de personas. 
+Derribar barreras de Accesibilidad significa asegurar “a todos” el acceso a Internet independientemente de la tecnología que 
+utilicen y de las capacidades diferentes que posean. Nuestro trabajo apuesta al diseño de interfaces de usuario accesibles 
+proponiendo un mapeo de las pautas de la “Web Content Accessibility Guidelines 1.0” sobre un framework arquitectónico que 
+asocia las fortalezas del diseño de interfaces de usuario y del patrón “MVC”.
+
+**ARTICULO 29:
+El artículo aborda la necesidad de mejorar la accesibilidad en las interfaces de usuario de sitios web, un desafío que afecta a un 
+amplio espectro de la población. Se presenta un marco arquitectónico que combina las pautas de accesibilidad con el patrón MVC, 
+facilitando a los desarrolladores la implementación de decisiones de diseño que beneficien a usuarios con discapacidades. 
+En su esencia, el artículo busca eliminar barreras y promover un acceso equitativo a la información en la web.
+
+
+**ARTICULO 30:
+Este artículo discute la implementación de un marco de trabajo basado en el patrón Model-View-Controller (MVC) para el 
+desarrollo de aplicaciones de escritorio en Java. Se enfatiza la necesidad de separar la lógica de negocio, los datos y 
+la interfaz gráfica para mitigar la alta complejidad y baja flexibilidad en aplicaciones Java existentes. A través de 
+esta separación, se busca mejorar la reutilización del código y facilitar un desarrollo más ágil y estructurado, 
+abordando así las limitaciones del modelo de desarrollo tradicional que solía mezclar estas capas.
+
+
+**ARTICULO 31:
+El artículo de John Deacon ofrece una visión general de la arquitectura (MVC), un patrón de diseño fundamental en el 
+desarrollo de software. Se argumenta que la separación de la lógica de la aplicación y la interfaz de usuario es crucial 
+para mantener la flexibilidad y la capacidad de adaptación de las aplicaciones a lo largo del tiempo. A lo largo del 
+documento, Deacon enfatiza que el modelo, que representa la esencia inmutable de la aplicación, debe permanecer completamente 
+separado de las interfaces, lo que se traduce en una mejor gestión del código y una mayor facilidad para realizar cambios en 
+la presentación sin afectar la lógica de negocio subyacente.
+
+**ARTICULO 32:
+El artículo describe el desarrollo de una herramienta en Java destinada a automatizar la codificación del patrón de diseño 
+(MVC) en proyectos orientados a la web. La herramienta genera código a partir de esquemas de bases 
+de datos implementados en MySQL, lo que reduce significativamente el tiempo de programación y asegura la consistencia del patrón. 
+Los autores destacan que, gracias a esta automatización, es posible añadir nuevas funcionalidades a los proyectos sin necesidad
+de reescribir el código existente, lo que mejora la eficiencia del proceso de desarrollo.
+
+**ARTICULO 33:
+El artículo se enfoca en evaluar y comparar el rendimiento de los patrones de diseño MVC y MVP en aplicaciones web. 
+Para ello, se desarrollaron dos proyectos de software en los que se aplicaron ambos patrones, midiendo indicadores 
+críticos como el uso de recursos del sistema y el tiempo de respuesta.
+
+**ARTICULO 34:
+El artículo de Edwin Bautista-Villegas explora la comparación entre dos metodologías ágiles ampliamente utilizadas en el 
+desarrollo de aplicaciones web: Scrum y eXtreme Programming (XP). A través de una revisión exhaustiva de la literatura en 
+bases de datos reconocidas, se identifican los requisitos especiales y en constante cambio que enfrentan las aplicaciones 
+web en un entorno tecnológico dinámico. La investigación concluye que, aunque ambas metodologías son efectivas, Scrum se 
+destaca por su capacidad superior de adaptación al cambio en comparación con XP, lo que la convierte en la opción más 
+adecuada para manejar las exigencias del desarrollo web bajo el patrón MVC utilizando PHP y el framework Laravel.
+
+**ARTICULO 35:
+El artículo aborda en profundidad el uso del patrón compuesto (MVC) en el diseño de software interactivo. 
+A través de un análisis detallado, el autor explica cómo MVC permite dividir el desarrollo de software en 
+partes especializadas, lo que resulta en un sistema modular y fácil de mantener. Además, se discuten patrones de 
+diseño que complementan a MVC, como Strategy y Observer.
+
+**ARTICULO 36:
+El artículo de L.H. García-Islas y colaboradores aborda la creciente importancia de las aplicaciones web en diversos ámbitos 
+sociales, científicos y tecnológicos. Destaca la necesidad de desarrollar aplicaciones web que cumplan con estándares de 
+calidad, específicamente aquellas que utilizan la arquitectura de Aplicaciones de Página Única (SPA) basada en el patrón 
+(MVC). Se presenta C-ToolP, una herramienta educativa que ayuda a construir y ejemplificar la 
+estructura de una aplicación SPA bajo el MVC, reafirmando así los conceptos teóricos relevantes en el desarrollo web.
+
+
+**ARTICULO 37:
+El artículo analiza el framework ASP.NET MVC 5, enfocándose en su aplicación para desarrollar un prototipo de sistema 
+que optimiza el control del tiempo de los recursos humanos en la empresa CREATEC S.A. A través de una comparación detallada 
+con ASP.NET Web Forms, se destacan las ventajas de MVC, como la separación de preocupaciones y la mejora en la mantenibilidad 
+del código. El trabajo demuestra cómo la implementación de MVC facilita la creación de aplicaciones web robustas, que son 
+fáciles de escalar y mantener a lo largo del tiempo.
+
+**ARTICULO 38:
+El trabajo detalla el diseño e implementación de un sistema distribuido para el despliegue de información médica de pacientes, 
+utilizando arquitecturas SOA y el patrón MVC. La aplicación incluye varias capas, como bases de datos, lógica de negocio, 
+servicios web y presentación, con el fin de mejorar la accesibilidad y gestión de la información médica en hospitales. 
+El uso de MVC.NET asegura la modularidad del sistema, permitiendo una organización clara del código, fácil mantenimiento y 
+escalabilidad, garantizando un despliegue eficiente y seguro de la información médica.
+
+**ARTICULO 39:
+El trabajo analiza la evolución del patrón MVC, desde su origen en Smalltalk hasta su uso en la web, destacando su impacto 
+en la separación de preocupaciones y la mejora en la reutilización y mantenimiento del software. También examina los desafíos 
+de adaptar MVC al entorno web, incluyendo las modificaciones en los roles de sus componentes para ajustarse a las particularidades de este contexto.
+
+**ARTICULO 40:
+La tesis desarrolla un sistema web basado en el patrón MVC para mejorar el control de asistencia en las reuniones de 
+APAFA en la I.E.S. José Macedo Mendoza, optimizando los procesos manuales. El sistema permite registrar asistencias y 
+generar reportes accesibles desde cualquier dispositivo con internet. MVC facilita la separación de responsabilidades, 
+mejorando el mantenimiento y escalabilidad del sistema, con una notable mejora en el servicio y acceso a reportes.
